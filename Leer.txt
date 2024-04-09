@@ -1,0 +1,26 @@
+Trabajo realizado por:
+Jennifer Soto Pino
+Alejandro Castrillón Ospina
+
+La base de datos se encuentra en la carpeta model/DB
+
+la clave de administrador es:
+usuario: admin1@gmail.com
+contraseña: admin1
+
+La clave de un de los usuarios es:
+usuario: acastrio@gmail.com
+contraseña: cualquiera
+
+Cambios generados desde la última vez:
+1. Se muestran los productos por categoría en el botón del header respectivo
+2. Se agregan los productos al carro de compras siempre y cuando el usuario está logeado, de lo contrario lo redirige al inicio de sesión
+3. Se permite confirmar el pedido en el carrito de compras (pago contra entrega)
+4. El administrados puede agregar productos, decidir cuales aparecen en el home page, ver los pedidos confirmados por los clientes con su detalle e indicar cuales fueron despachados satisfactoriamente
+
+
+Página terminada según el alcance específicado
+
+
+
+
